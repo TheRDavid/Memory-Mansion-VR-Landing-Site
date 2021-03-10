@@ -1,18 +1,46 @@
 # Welcome to the Memory VR Tutorials
 ### [Deutsche Version / German Version](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/edit/gh-pages/index.md)
 
-## Content
+## Howto
 
 - [Mobile Companion App](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/blob/gh-pages/index.md#mobile-companion-app)
   - How to make a photo / video / text note / voice note
-  - How to tell send the files to the VR headset
+  - How to send a file that was not made with the app
+  - How to transfer files to the VR headset **whithout the monile app**
+- [VR App](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/blob/gh-pages/index.md#vr-app)
+  - How to put on the VR headset
+  - How to start the VR App
+  - How to move around
+  - How to look around
+  - How to get to the next room
+  - How to place a memory
+  - How to select and deselect an object
+  - How to decorate the room
+  - How to pick up and object
+  - How to play an audio file
+  - How to play a video file
+  - How to resize an object
+  - How to rotate an object
+  - How to change an object (rename, edit description, tags, rating, ...)
+  - How to search for a memory
+  - How to find related memories
+  - How to view memory analysis
+  - How to view a memory from a past day that you didn't place in a room
+  - How to provide daily feedback
+
+
+## FAQ
+
+- [Mobile Companion App](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/blob/gh-pages/index.md#mobile-companion-app)
+  - How do I send the files to the VR headset?
   - Why isn't it sending my files?
   - What is the security code for?
   - What does _Allow Cloud Voice Transcription_ mean?
   - What does _Allow Cloud Text Sentiment Analysis_ mean?
 - [VR App](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/blob/gh-pages/index.md#vr-app)
-  - How do I start the VR App?
-- [FAQ](#FAQ)
+  - Why does it crash?
+  - Why can't I change things in my room anymore?
+- [Other](#other)
   - [I am worried about my privacy](#q-i-am-worried-about-my-privacy)
   - [I don't know what I am supposed to do](#q-i-dont-know-what-i-am-supposed-to-do)
   - [I can't find a photo / video but I know it's on my phone](#q-i-cant-find-a-photo--video-but-i-know-its-on-my-phone)
@@ -27,7 +55,7 @@ __________________________
 ## VR App
 **All of this information can be found in the Lobby (the first room in the VR App)**
 __________________________
-## FAQ
+## Other
 ### Q: I am worried about my privacy
 THat's why
 
