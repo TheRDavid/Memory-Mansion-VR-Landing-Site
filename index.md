@@ -16,8 +16,11 @@
   - How to look around
   - How to get to the next room
   - How to place a memory
+  - How to remove a memory
   - How to select and deselect an object
-  - How to decorate the room
+  - How to decorate a room
+  - How to change a room
+  - How to add a window
   - How to pick up and object
   - How to play an audio file
   - How to play a video file
