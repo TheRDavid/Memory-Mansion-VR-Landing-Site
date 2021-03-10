@@ -5,7 +5,7 @@
 
 ## Content
 
-- Mobile Companion App
+- [Mobile Companion App](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/blob/gh-pages/index.md#mobile-companion-app)
   - How do I make a photo / video / text note / voice note?
   - How do I tell it to send the files off?
   - Why isn't it sending my files?
