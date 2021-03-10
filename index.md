@@ -14,7 +14,9 @@
   - What does _Allow Cloud Text Sentiment Analysis_ mean?
 - VR App
   - How do I start the VR App?
-  - FAQ
+- FAQ
+  - [I am worried about my privacy](#Q1)
+  - [I don't know what I am supposed to do](#Q2)
 
 ## Mobile Companion App
 **All of this information can be found within the app itself by pressing the gear-icon and selecting _Help and Instruction_**
@@ -24,10 +26,11 @@
 
 ## FAQ
 
+#Q1
 ### Q: I am worried about my privacy
 ### A: THat's why
 
-
+#Q2
 ### Q: I don't know what I am supposed to do.
 ### A: THat's why
 
