@@ -35,7 +35,13 @@ THat's why
 THat's why
 
 ### Q: I can't find a photo / video but I know it's on my phone
-Hit the top-left menu icon in the file-chooser. Make sure you are looking in the right place (maybe a photo wasn't taken with your camera but sent via WhatsApp?). Also consider that our app does **not** read your text messages. If a photo was sent to you via a messenger app, you will need to manually save it on your phone so that our app can detect it.
+Hit the top-left menu icon in the file-chooser. Make sure you are looking in the right place (maybe a photo wasn't taken with your camera but sent via WhatsApp?).
+
+<img src="img/filechooser_menu.jpg" height="400px">
+
+Also consider that our app does **not** read your text messages. If a photo was sent to you via a messenger app, you will need to manually save it on your phone so that our app can detect it.
+
+<img src="img/save_to_gallery.jpg" height="400px">
 __________________________
 
 ## Contact
