@@ -1,12 +1,22 @@
-## Welcome to GitHub Pages
+# Welcome to the Memory VR Tutorials
+### [Deutsche Version / German Version](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/edit/gh-pages/index.md)
 
-You can use the [editor on GitHub](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Here you can find information on how to use the Mobile Companion App, the VR App and an FAQ.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Mobile Companion App
+**All of this information can be found within the app itself by pressing the gear-icon and selecting _Help and Instruction_**
 
-### Markdown
+### VR App
+**All of this information can be found in the Lobby (the first room in the VR App)**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### FAQ
+
+## Q: WHy
+## A: THat's why
+
+
+## Q: WHy
+## A: THat's why
 
 ```markdown
 Syntax highlighted code block
@@ -25,13 +35,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
