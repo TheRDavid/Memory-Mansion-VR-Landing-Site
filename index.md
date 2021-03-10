@@ -19,6 +19,7 @@
   - Remove a memory
   - Select and deselect an object
   - Decorate a room
+  - Be Happy
   - Change a room
   - Add a window
   - Pick up and object
