@@ -29,7 +29,6 @@
   - How to view a memory from a past day that you didn't place in a room
   - How to provide daily feedback
 
-
 ## FAQ - Contents
 
 - [Mobile Companion App](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/blob/gh-pages/index.md#mobile-companion-app)
@@ -41,7 +40,9 @@
 - [VR App](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/blob/gh-pages/index.md#vr-app)
   - Why does it crash?
   - Why can't I change things in my room anymore?
+  - WHy does the headset only show me my surroundings?
 - [Other](#other)
+  - [What else can I do with the VR headset?](#q-what-else-can-i-do-with-the-headset)
   - [I am worried about my privacy](#q-i-am-worried-about-my-privacy)
   - [I don't know what I am supposed to do](#q-i-dont-know-what-i-am-supposed-to-do)
   - [I can't find a photo / video but I know it's on my phone](#q-i-cant-find-a-photo--video-but-i-know-its-on-my-phone)
@@ -73,6 +74,10 @@ Hit the top-left menu icon in the file-chooser. Make sure you are looking in the
 Also consider that our app does **not** read your text messages. If a photo was sent to you via a messenger app, you will need to manually save it on your phone so that our app can detect it.
 
 <img src="img/save_to_gallery.jpg" height="400px">
+
+
+#### Q: What else can I do with the headset?
+THat's why
 __________________________
 
 ### Contact
