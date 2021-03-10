@@ -9,6 +9,7 @@
   - How to transfer files to the VR headset **whithout the monile app**
 - [VR App](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/blob/gh-pages/index.md#vr-app)
   - How to put on the VR headset
+  - How to hold the VR controllers
   - How to start the VR App
   - How to move around
   - How to look around
