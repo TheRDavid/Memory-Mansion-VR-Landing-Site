@@ -15,6 +15,7 @@
 - [FAQ](#FAQ)
   - [I am worried about my privacy](#q-i-am-worried-about-my-privacy)
   - [I don't know what I am supposed to do](#q-i-dont-know-what-i-am-supposed-to-do)
+- [Contact](#contact) 
 
 ## Mobile Companion App
 **All of this information can be found within the app itself by pressing the gear-icon and selecting _Help and Instruction_**
