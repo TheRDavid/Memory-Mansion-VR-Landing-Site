@@ -19,16 +19,22 @@
 
 ## Mobile Companion App
 **All of this information can be found within the app itself by pressing the gear-icon and selecting _Help and Instruction_**
+
+### How to make a photo / video / text note / voice note
+#### Open the app
 __________________________
 ## VR App
 **All of this information can be found in the Lobby (the first room in the VR App)**
 __________________________
 ## FAQ
-#### Q: I am worried about my privacy
-##### A: THat's why
+### Q: I am worried about my privacy
+#### A: THat's why
 
-#### Q: I don't know what I am supposed to do
-##### A: THat's why
+### Q: I don't know what I am supposed to do
+#### A: THat's why
+
+### Q: I can't find a photo / video but I know it's on my phone
+#### A: Hit the top-left menu icon in the file-chooser. Make sure you are looking in the right place (maybe a photo wasn't taken with your camera but sent via WhatsApp?). Also consider that our app does **not** read your text messages. If a photo was sent to you via a messenger app, you will need to manually save it on your phone so that our app can detect it.
 __________________________
 
 ## Contact
