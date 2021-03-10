@@ -3,36 +3,36 @@
 
 ## Howto - Contents
 
-- [Mobile Companion App](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/blob/gh-pages/index.md#mobile-companion-app)
-  - How to make a photo / video / text note / voice note
-  - How to send a file that was not made with the app
-  - How to transfer files to the VR headset **whithout the monile app**
+- [Mobile Companion App How To...](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/blob/gh-pages/index.md#mobile-companion-app)
+  - Mmake a photo / video / text note / voice note
+  - Send a file that was not made with the app
+  - Transfer files to the VR headset **whithout the monile app**
 - [VR App](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/blob/gh-pages/index.md#vr-app)
-  - How to transfer files without the mobile app
-  - How to put on the VR headset
-  - How to hold the VR controllers
-  - How to start the VR App
-  - How to move around
-  - How to look around
-  - How to get to the next room
-  - How to place a memory
-  - How to remove a memory
-  - How to select and deselect an object
-  - How to decorate a room
-  - How to change a room
-  - How to add a window
-  - How to pick up and object
-  - How to play an audio file
-  - How to play a video file
-  - How to resize an object
-  - How to rotate an object
-  - How to change an object (rename, edit description, tags, rating, ...)
-  - How to search for a memory
-  - How to find related memories
-  - How to view memory analysis
-  - How to view a memory from a past day that you didn't place in a room
-  - How to provide daily feedback
-  - How to make a video recording / take a snapshot
+  - Transfer files without the mobile app
+  - Put on the VR headset
+  - Hold the VR controllers
+  - Start the VR App
+  - Move around
+  - Look around
+  - Go to the next room
+  - Place a memory
+  - Remove a memory
+  - Select and deselect an object
+  - Decorate a room
+  - Change a room
+  - Add a window
+  - Pick up and object
+  - Play an audio file
+  - Play a video file
+  - Resize an object
+  - Rotate an object
+  - Change an object (rename, edit description, tags, rating, ...)
+  - Search for a memory
+  - Find related memories
+  - View memory analysis
+  - View a memory from a past day that you didn't place in a room
+  - Provide daily feedback
+  - Make a video recording / take a snapshot
 
 ## FAQ - Contents
 
