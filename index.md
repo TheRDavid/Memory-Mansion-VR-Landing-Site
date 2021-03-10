@@ -8,6 +8,7 @@
   - How to send a file that was not made with the app
   - How to transfer files to the VR headset **whithout the monile app**
 - [VR App](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/blob/gh-pages/index.md#vr-app)
+  - How to transfer files without the mobile app
   - How to put on the VR headset
   - How to hold the VR controllers
   - How to start the VR App
@@ -28,6 +29,7 @@
   - How to view memory analysis
   - How to view a memory from a past day that you didn't place in a room
   - How to provide daily feedback
+  - How to make a video recording / take a snapshot
 
 ## FAQ - Contents
 
@@ -39,8 +41,9 @@
   - What does _Allow Cloud Text Sentiment Analysis_ mean?
 - [VR App](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/blob/gh-pages/index.md#vr-app)
   - Why does it crash?
-  - Why can't I change things in my room anymore?
-  - WHy does the headset only show me my surroundings?
+  - I can't change things in my room anymore?
+  - WHy does the headset only show me my real life surroundings?
+  - I can't hear music / video sounds
 - [Other](#other)
   - [What else can I do with the VR headset?](#q-what-else-can-i-do-with-the-headset)
   - [I am worried about my privacy](#q-i-am-worried-about-my-privacy)
