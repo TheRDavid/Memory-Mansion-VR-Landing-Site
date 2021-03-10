@@ -15,7 +15,7 @@
 - VR App
   - How do I start the VR App?
 - [FAQ](#FAQ)
-  - [I am worried about my privacy](###Q1)
+  - [I am worried about my privacy](#Q1)
   - [I don't know what I am supposed to do](#Q2)
 
 ## Mobile Companion App
@@ -25,10 +25,10 @@
 **All of this information can be found in the Lobby (the first room in the VR App)**
 
 ## FAQ
-
+#Q1
 ### Q1: I am worried about my privacy
 ### A: THat's why
-
+#Q2
 ### Q2: I don't know what I am supposed to do.
 ### A: THat's why
 
