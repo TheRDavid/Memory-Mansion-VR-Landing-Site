@@ -1,7 +1,7 @@
 # Welcome to the Memory VR Tutorials
 ### [Deutsche Version / German Version](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/edit/gh-pages/index.md)
 
-## Howto
+## Howto - Contents
 
 - [Mobile Companion App](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/blob/gh-pages/index.md#mobile-companion-app)
   - How to make a photo / video / text note / voice note
@@ -29,7 +29,7 @@
   - How to provide daily feedback
 
 
-## FAQ
+## FAQ - Contents
 
 - [Mobile Companion App](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/blob/gh-pages/index.md#mobile-companion-app)
   - How do I send the files to the VR headset?
@@ -46,23 +46,25 @@
   - [I can't find a photo / video but I know it's on my phone](#q-i-cant-find-a-photo--video-but-i-know-its-on-my-phone)
 - [Contact](#contact) 
 
-## Mobile Companion App
+## Howto
+
+### Mobile Companion App
 **All of this information can be found within the app itself by pressing the gear-icon and selecting _Help and Instruction_**
 
-### How to make a photo / video / text note / voice note
-#### Open the app
+#### How to make a photo / video / text note / voice note
+Open the app
 __________________________
-## VR App
+### VR App
 **All of this information can be found in the Lobby (the first room in the VR App)**
 __________________________
-## Other
-### Q: I am worried about my privacy
+### Other
+#### Q: I am worried about my privacy
 THat's why
 
-### Q: I don't know what I am supposed to do
+#### Q: I don't know what I am supposed to do
 THat's why
 
-### Q: I can't find a photo / video but I know it's on my phone
+#### Q: I can't find a photo / video but I know it's on my phone
 Hit the top-left menu icon in the file-chooser. Make sure you are looking in the right place (maybe a photo wasn't taken with your camera but sent via WhatsApp?).
 
 <img src="img/filechooser_menu.jpg" height="400px">
@@ -72,7 +74,7 @@ Also consider that our app does **not** read your text messages. If a photo was 
 <img src="img/save_to_gallery.jpg" height="400px">
 __________________________
 
-## Contact
+### Contact
 E-Mail: d.p.rosenbusch@gmail.com
 
 Phone: +49 157757 04560
