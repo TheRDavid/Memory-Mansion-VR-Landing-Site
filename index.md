@@ -8,29 +8,29 @@
 - Mobile Companion App
   - How do I make a photo / video / text note / voice note?
   - How do I tell it to send the files off?
-  - WHy isn't it sending my files?
+  - Why isn't it sending my files?
   - What is the security code for?
   - What does _Allow Cloud Voice Transcription_ mean?
   - What does _Allow Cloud Text Sentiment Analysis_ mean?
 - VR App
   - How do I start the VR App?
 - [FAQ](#FAQ)
-  - [I am worried about my privacy](#q1-i-am-worried-about-my-privacy)
-  - [I don't know what I am supposed to do](#q2-i-dont-know-what-i-am-supposed-to-do)
+  - [I am worried about my privacy](#q-i-am-worried-about-my-privacy)
+  - [I don't know what I am supposed to do](#q-i-dont-know-what-i-am-supposed-to-do)
 
 ## Mobile Companion App
 **All of this information can be found within the app itself by pressing the gear-icon and selecting _Help and Instruction_**
-
+__________________________
 ## VR App
 **All of this information can be found in the Lobby (the first room in the VR App)**
-
+__________________________
 ## FAQ
-### Q1: I am worried about my privacy
-### A: THat's why
+#### Q: I am worried about my privacy
+##### A: THat's why
 
-### Q2: I don't know what I am supposed to do
-### A: THat's why
-
+#### Q: I don't know what I am supposed to do
+##### A: THat's why
+__________________________
 
 ## Contact
 E-Mail: d.p.rosenbusch@gmail.com
