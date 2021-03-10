@@ -15,8 +15,8 @@
 - VR App
   - How do I start the VR App?
 - [FAQ](#FAQ)
-  - [I am worried about my privacy](#Q1--I-am-worried-about-my-privacy)
-  - [I don't know what I am supposed to do](#Q2)
+  - [I am worried about my privacy](#q1-i-am-worried-about-my-privacy)
+  - [I don't know what I am supposed to do](#q2-i-don't-know-what-I-am-supposed-to-do)
 
 ## Mobile Companion App
 **All of this information can be found within the app itself by pressing the gear-icon and selecting _Help and Instruction_**
@@ -28,7 +28,7 @@
 ### Q1: I am worried about my privacy
 ### A: THat's why
 #Q2
-### Q2: I don't know what I am supposed to do.
+### Q2: I don't know what I am supposed to do
 ### A: THat's why
 
 
