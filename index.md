@@ -8,32 +8,32 @@
   - Send a file that was not made with the app
   - Transfer files to the VR headset **whithout the monile app**
 - [VR App](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/blob/gh-pages/index.md#vr-app)
-  - Transfer files without the mobile app
-  - Put on the VR headset
-  - Hold the VR controllers
-  - Start the VR App
-  - Move around
-  - Look around
-  - Go to the next room
-  - Place a memory
-  - Remove a memory
-  - Select and deselect an object
-  - Decorate a room
+  - Transfering files without the mobile app
+  - Putting on the VR headset
+  - Holding the VR controllers
+  - Starting the VR App
+  - Moving around
+  - Looking around
+  - Going to the next room
+  - Placing a memory
+  - Removing a memory
+  - Selecting and deselecting an object
+  - Decorating a room
   - Be Happy
-  - Change a room
-  - Add a window
-  - Pick up and object
-  - Play an audio file
-  - Play a video file
-  - Resize an object
-  - Rotate an object
-  - Change an object (rename, edit description, tags, rating, ...)
-  - Search for a memory
-  - Find related memories
-  - View memory analysis
-  - View a memory from a past day that you didn't place in a room
-  - Provide daily feedback
-  - Make a video recording / take a snapshot
+  - Changing a room
+  - Adding a window
+  - Picking up and object
+  - Playing an audio file
+  - Playing a video file
+  - Resizing an object
+  - Rotating an object
+  - Changing an object (rename, edit description, tags, rating, ...)
+  - Searching for a memory
+  - Finding related memories
+  - Viewing memory analysis
+  - Viewing a memory from a past day that you didn't place in a room
+  - Providing daily feedback
+  - Making a video recording / taking a snapshot
 
 ## FAQ - Contents
 
