@@ -70,7 +70,7 @@ __________________________
 #### Q: I am worried about my privacy
 THat's why
 
-#### Q: I don't know what I am supposed to do
+#### **Q: I don't know what I am supposed to do**
 THat's why
 
 #### Q: I can't find a photo / video but I know it's on my phone
