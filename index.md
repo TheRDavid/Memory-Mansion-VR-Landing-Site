@@ -1,12 +1,12 @@
-# Welcome to the Memory VR Tutorials
 ### [Deutsche Version / German Version](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/edit/gh-pages/index.md)
 
-## Howto - Contents
+## Howto
 
 - [Mobile Companion App How To...](#mobile-companion-app)
   - Make a photo / video / text note / voice note
   - Send a file that was not made with the app
   - Transfer files to the VR headset **whithout the monile app**
+  
 - [VR App](#vr-app)
   - [Transfering files without the mobile app](#transfering-files-without-the-mobile-app)
   - Putting on the VR headset
@@ -35,7 +35,7 @@
   - Providing daily feedback
   - Making a video recording / taking a snapshot
 
-## FAQ - Contents
+## FAQ
 
 - [Mobile Companion App](#mobile-companion-app)
   - How do I send the files to the VR headset?
@@ -43,16 +43,19 @@
   - What is the security code for?
   - What does _Allow Cloud Voice Transcription_ mean?
   - What does _Allow Cloud Text Sentiment Analysis_ mean?
+  
 - [VR App](#vr-app)
   - Why does it crash?
   - I can't change things in my room anymore?
   - WHy does the headset only show me my real life surroundings?
   - I can't hear music / video sounds
+  
 - [Other](#other)
   - [What else can I do with the VR headset?](#q-what-else-can-i-do-with-the-headset)
   - [I am worried about my privacy](#q-i-am-worried-about-my-privacy)
   - [I don't know what I am supposed to do](#q-i-dont-know-what-i-am-supposed-to-do)
   - [I can't find a photo / video but I know it's on my phone](#q-i-cant-find-a-photo--video-but-i-know-its-on-my-phone)
+  
 - [Contact](#contact) 
 
 ## Howto
