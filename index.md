@@ -4,11 +4,11 @@
 ## Howto - Contents
 
 - [Mobile Companion App How To...](#mobile-companion-app)
-  - Mmake a photo / video / text note / voice note
+  - Make a photo / video / text note / voice note
   - Send a file that was not made with the app
   - Transfer files to the VR headset **whithout the monile app**
 - [VR App](#vr-app)
-  - Transfering files without the mobile app
+  - [Transfering files without the mobile app](#transfering-files-without-the-mobile-app)
   - Putting on the VR headset
   - Holding the VR controllers
   - Starting the VR App
@@ -62,6 +62,10 @@
 
 #### How to make a photo / video / text note / voice note
 Open the app
+
+#### Transfering files without the mobile app
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WqHPqB0UyTY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 __________________________
 ### VR App
 **All of this information can be found in the Lobby (the first room in the VR App)**
