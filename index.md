@@ -2,7 +2,7 @@
 
 ## Howto
 
-- [Mobile Companion App How To...](#mobile-companion-app)
+- [Mobile Companion App](#mobile-companion-app)
   - Make a photo / video / text note / voice note
   - Send a file that was not made with the app
   - Transfer files to the VR headset **whithout the monile app**
