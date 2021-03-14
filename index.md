@@ -60,10 +60,10 @@
 ### Mobile Companion App
 **All of this information can be found within the app itself by pressing the gear-icon and selecting _Help and Instruction_**
 
-#### How to make a photo / video / text note / voice note
+#### **How to make a photo / video / text note / voice note**
 Open the app
 
-#### Transfering files without the mobile app
+#### **Transfering files without the mobile app**
 <iframe width="1280" height="960" src="https://www.youtube.com/embed/WqHPqB0UyTY?controls=0" frameborder="0" allow="clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 __________________________
