@@ -67,13 +67,13 @@ __________________________
 **All of this information can be found in the Lobby (the first room in the VR App)**
 __________________________
 ### Other
-#### Q: I am worried about my privacy
+#### **Q: I am worried about my privacy**
 THat's why
 
 #### **Q: I don't know what I am supposed to do**
 THat's why
 
-#### Q: I can't find a photo / video but I know it's on my phone
+#### **Q: I can't find a photo / video but I know it's on my phone**
 Hit the top-left menu icon in the file-chooser. Make sure you are looking in the right place (maybe a photo wasn't taken with your camera but sent via WhatsApp?).
 
 <img src="img/filechooser_menu.jpg" height="400px">
@@ -83,7 +83,7 @@ Also consider that our app does **not** read your text messages. If a photo was 
 <img src="img/save_to_gallery.jpg" height="400px">
 
 
-#### Q: What else can I do with the headset?
+#### Q:** What else can I do with the headset?**
 THat's why
 __________________________
 
