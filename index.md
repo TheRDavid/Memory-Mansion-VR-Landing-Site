@@ -3,11 +3,11 @@
 
 ## Howto - Contents
 
-- [Mobile Companion App How To...](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/blob/gh-pages/index.md#mobile-companion-app)
+- [Mobile Companion App How To...](#mobile-companion-app)
   - Mmake a photo / video / text note / voice note
   - Send a file that was not made with the app
   - Transfer files to the VR headset **whithout the monile app**
-- [VR App](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/blob/gh-pages/index.md#vr-app)
+- [VR App](#vr-app)
   - Transfering files without the mobile app
   - Putting on the VR headset
   - Holding the VR controllers
@@ -37,13 +37,13 @@
 
 ## FAQ - Contents
 
-- [Mobile Companion App](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/blob/gh-pages/index.md#mobile-companion-app)
+- [Mobile Companion App](#mobile-companion-app)
   - How do I send the files to the VR headset?
   - Why isn't it sending my files?
   - What is the security code for?
   - What does _Allow Cloud Voice Transcription_ mean?
   - What does _Allow Cloud Text Sentiment Analysis_ mean?
-- [VR App](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/blob/gh-pages/index.md#vr-app)
+- [VR App](#vr-app)
   - Why does it crash?
   - I can't change things in my room anymore?
   - WHy does the headset only show me my real life surroundings?
