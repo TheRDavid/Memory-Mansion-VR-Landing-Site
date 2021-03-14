@@ -67,7 +67,7 @@
 Open the app
 
 #### **Transfering files without the mobile app**
-<iframe width="1280" height="960" src="https://www.youtube.com/embed/WqHPqB0UyTY?controls=0" frameborder="0" allow="clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="525" src="https://www.youtube.com/embed/WqHPqB0UyTY?controls=0" frameborder="0" allow="clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 __________________________
 ### VR App
