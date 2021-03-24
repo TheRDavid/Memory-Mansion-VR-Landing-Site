@@ -75,7 +75,12 @@ __________________________
 __________________________
 ### Other
 #### **Q: I am worried about my privacy**
-THat's why
+Key facts:
+- We will never look at the content of your memories
+- Memory is only sent to Google Analysis servers if you **explicitly** state you want to, otherwise none of your memories will be stored outside of the VR headset and your own phone
+- At the end of the experiment you can transfer all of your memory content from the headset to your own computer and then delete all your data from the headset, before giving it back
+- Your interview results will be anonymized
+- If you are still unomfortable, please contact me directly. We can also end the experiment prematurely if you wish.
 
 #### **Q: I don't know what I am supposed to do**
 THat's why
