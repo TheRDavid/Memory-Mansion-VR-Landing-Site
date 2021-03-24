@@ -54,7 +54,7 @@
   - What else can I do with the VR headset?
   - I am worried about my privacy
   - I don't know what I am supposed to do
-  - I can't find a photo / video but I know it's on my phone
+  - [I can't find a photo / video but I know it's on my phone](#q-i-cant-find-a-photo--video-but-i-know-its-on-my-phone)
  
 - [Contact](#contact) 
 
