@@ -1,9 +1,13 @@
 ### [Deutsche Version / German Version](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/edit/gh-pages/index-de.md)
 
+### Make sure that you have watched the intro videos:
+
+<iframe width="840" height="472" src="https://www.youtube.com/embed/m-xlKRM7uyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="840" height="472" src="https://www.youtube.com/embed/pohtWnsrQVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Howto
 
 ### Mobile Companion App
-  - Take a photo / video
   - Take a text note
   - Take voice note
   - Send a file that was not made with the app
