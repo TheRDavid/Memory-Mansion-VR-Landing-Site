@@ -70,11 +70,11 @@ Open the app
 <iframe width="700" height="525" src="https://www.youtube.com/embed/WqHPqB0UyTY?controls=0" frameborder="0" allow="clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 __________________________
-### VR App
+## VR App
 **All of this information can be found in the Lobby (the first room in the VR App)**
 __________________________
-### Other
-#### **Q: I am worried about my privacy**
+## Other
+### **Q: I am worried about my privacy**
 Key facts:
 - We will never look at the content of your memories
 - Memory is only sent to Google Analysis servers if you **explicitly** state you want to, otherwise none of your memories will be stored outside of the VR headset and your own phone
@@ -82,10 +82,10 @@ Key facts:
 - Your interview results will be anonymized
 - If you are still unomfortable, please contact me directly. We can also end the experiment prematurely if you wish.
 
-#### **Q: I don't know what I am supposed to do**
+### **Q: I don't know what I am supposed to do**
 THat's why
 
-#### **Q: I can't find a photo / video but I know it's on my phone**
+### **Q: I can't find a photo / video but I know it's on my phone**
 Hit the top-left menu icon in the file-chooser. Make sure you are looking in the right place (maybe a photo wasn't taken with your camera but sent via WhatsApp?).
 
 <img src="img/filechooser_menu.jpg" height="400px">
@@ -95,11 +95,11 @@ Also consider that our app does **not** read your text messages. If a photo was 
 <img src="img/save_to_gallery.jpg" height="400px">
 
 
-#### Q:** What else can I do with the headset?**
+### Q:** What else can I do with the headset?**
 THat's why
 __________________________
 
-### Contact
+## Contact
 E-Mail: d.p.rosenbusch@gmail.com
 
 Phone: +49 157757 04560
