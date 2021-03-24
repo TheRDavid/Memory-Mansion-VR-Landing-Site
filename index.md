@@ -3,7 +3,9 @@
 ## Howto
 
 ### Mobile Companion App
-  - Make a photo / video / text note / voice note
+  - Take a photo / video
+  - Take a text note
+  - Take voice note
   - Send a file that was not made with the app
   - Transfer files to the VR headset **whithout the monile app**
   
@@ -12,25 +14,9 @@
   - Putting on the VR headset
   - Holding the VR controllers
   - Starting the VR App
-  - Moving around
-  - Looking around
-  - Going to the next room
-  - Placing a memory
-  - Removing a memory
-  - Selecting and deselecting an object
-  - Decorating a room
-  - Be Happy
-  - Changing a room
-  - Adding a window
-  - Picking up and object
-  - Playing an audio file
-  - Playing a video file
-  - Resizing an object
-  - Rotating an object
   - Changing an object (rename, edit description, tags, rating, ...)
   - Searching for a memory
   - Finding related memories
-  - Viewing memory analysis
   - Viewing a memory from a past day that you didn't place in a room
   - Providing daily feedback
   - Making a video recording / taking a snapshot
