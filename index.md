@@ -46,13 +46,13 @@
   
 ### VR App
   - Why does it crash?
-  - I can't change things in my room anymore?
-  - WHy does the headset only show me my real life surroundings?
+  - I can't change things in my room anymore.
+  - Why does the headset only show me my real life surroundings?
   - I can't hear music / video sounds
   
 ### Other
   - What else can I do with the VR headset?
-  - I am worried about my privacy
+  - [I am worried about my privacy](#q-i-am-worried-about-my-privacy)
   - I don't know what I am supposed to do
   - [I can't find a photo / video but I know it's on my phone](#q-i-cant-find-a-photo--video-but-i-know-its-on-my-phone)
  
