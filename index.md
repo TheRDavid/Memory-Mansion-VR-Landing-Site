@@ -1,4 +1,4 @@
-### [Deutsche Version / German Version](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/edit/gh-pages/index.md)
+### [Deutsche Version / German Version](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/edit/gh-pages/index-de.md)
 
 ## Howto
 
@@ -51,11 +51,11 @@
   - I can't hear music / video sounds
   
 ### Other
-  - [What else can I do with the VR headset?](#q-what-else-can-i-do-with-the-headset)
-  - [I am worried about my privacy](#q-i-am-worried-about-my-privacy)
-  - [I don't know what I am supposed to do](#q-i-dont-know-what-i-am-supposed-to-do)
-  - [I can't find a photo / video but I know it's on my phone](#q-i-cant-find-a-photo--video-but-i-know-its-on-my-phone)
-  
+  - What else can I do with the VR headset?
+  - I am worried about my privacy
+  - I don't know what I am supposed to do
+  - I can't find a photo / video but I know it's on my phone
+ 
 - [Contact](#contact) 
 
 ## Howto
