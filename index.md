@@ -64,7 +64,7 @@ __________________________
 
 ## VR
 
-### Q:**Why does the VR app crash?**
+### **Q: Why does the VR app crash?**
 It really shouldn't! If you experience a crash or unexpected behaviour, please contact me immediatly and tell me exactly what happened.
 
 E-Mail: d.p.rosenbusch@gmail.com
