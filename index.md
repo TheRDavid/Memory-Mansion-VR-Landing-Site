@@ -13,7 +13,7 @@
   - [Take voice note](#taking-a-voice-note)
   - [Transfer files that were created by other apps](#transfer-files-that-were-created-by-other-apps)
   - [Transfering files without the mobile app](#transfering-files-without-the-mobile-app)
-  - [Why isn't it sending my files?](#why-isn't-the-app-sending-my-files)
+  - [Why isn't it sending my files?](#why-isnt-the-app-sending-my-files)
   - What is the security code for?
   - What does _Allow Cloud Voice Transcription_ mean?
   - What does _Allow Cloud Text Sentiment Analysis_ mean?
