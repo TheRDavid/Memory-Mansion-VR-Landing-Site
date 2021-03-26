@@ -20,8 +20,6 @@
   
 ### VR App
   - [Starting the VR App](#starting-the-vr-app)
-  - Searching for a memory
-  - Viewing a memory from a past day that you didn't place in a room
   - [Making a video recording / taking a snapshot](#making-a-video-recoding-taking-a-snapshot)
   - [I'm too close to the floor / too high up](#im-too-close-to-the-floor--too-high-up)
   - [Why does it crash?](#q-why-does-the-vr-app-crash)
