@@ -72,7 +72,7 @@ To turn spoken words into written text with as few hiccups as possible, we're us
 
 We understand that you may have reservations with personal information being transmitted this way, which is why this feature is disabled by default. You can still listen to your voice recordings, but the diary won't have written information about its content.
 
-### **_Allow Cloud Text Sentiment Analysis_ mean?**
+### **What does _Allow Cloud Text Sentiment Analysis_ mean?**
 To analyze a text's mood, we're using state of the art language analysis powered by google. If you enable this feature, your text notes are temporarily uploaded to a google-server over the internet. There they will be analyzed and a sentiment value is sent back to the headset. Google will then delete the text from their server. They also don't know who it is coming from.
 
 We understand that you may have reservations with personal information being transmitted this way, which is why this feature is disabled by default. If you do not turn on this feature, the app will attempt to perform a very basic sentiment analysis locally (i.e. without sharing the text content with anyone), but it will likely be less accurate.
