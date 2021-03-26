@@ -10,7 +10,7 @@
 <iframe width="840" height="840" src="https://www.youtube.com/embed/0gV3oTk5dLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Mobile Companion App
-  - Take voice note
+  - [Take voice note](#taking-a-voice-note)
   - Send a file that was not made with the app
   - [Transfering files without the mobile app](#transfering-files-without-the-mobile-app)
   - Why isn't it sending my files?
