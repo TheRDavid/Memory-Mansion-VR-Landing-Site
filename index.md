@@ -15,8 +15,8 @@
   - [Transfering files without the mobile app](#transfering-files-without-the-mobile-app)
   - [Why isn't it sending my files?](#why-isnt-the-app-sending-my-files)
   - [What is the security code for?](#what-is-the-security-code-for)
-  - What does _Allow Cloud Voice Transcription_ mean?
-  - What does _Allow Cloud Text Sentiment Analysis_ mean?
+  - [What does _Allow Cloud Voice Transcription_ mean?](#what-does--mean)
+  - [What does _Allow Cloud Text Sentiment Analysis_ mean?](#what-does--mean)
   
 ### VR App
   - [Starting the VR App](#starting-the-vr-app)
@@ -66,6 +66,16 @@ Phone: +49 157757 04560
 To protect your privacy the app will not send the memory files to your headset via the internet, but merely over your own private WiFi network. This means that your memories are not uploaded to some server. To add an additional layer of protection (in case someone breaks into your private home network), the app encryptss your memories, which can only be decrypted using the security code, which you hand-type into the headset.
 
 Feel free to [contact](#contact) me if you have further questions.
+
+### **What does _Allow Cloud Voice Transcription_ mean?**
+To turn spoken words into written text with as few hiccups as possible, we're using state of the art speech recoginizing powered by Google. If you enable this feature, your voice recording is temporarily uploaded to a google-server over the internet. There it is turned into written text and sent back to the headset. Google will then delete the recording from their server. They also don't know who it is coming from.
+
+We understand that you may have reservations with personal information being transmitted this way, which is why this feature is disabled by default. You can still listen to your voice recordings, but the diary won't have written information about its content.
+
+### **_Allow Cloud Text Sentiment Analysis_ mean?**
+To analyze a text's mood, we're using state of the art language analysis powered by google. If you enable this feature, your text notes are temporarily uploaded to a google-server over the internet. There they will be analyzed and a sentiment value is sent back to the headset. Google will then delete the text from their server. They also don't know who it is coming from.
+
+We understand that you may have reservations with personal information being transmitted this way, which is why this feature is disabled by default. If you do not turn on this feature, the app will attempt to perform a very basic sentiment analysis locally (i.e. without sharing the text content with anyone), but it will likely be less accurate.
 
 ## VR App
 **All of this information can be found in the Lobby (the first room in the VR App)**
