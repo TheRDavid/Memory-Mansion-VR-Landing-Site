@@ -17,7 +17,7 @@
   - [Transfering files without the mobile app](#transfering-files-without-the-mobile-app)
   
 ### VR App
-  - Starting the VR App
+  - [Starting the VR App](#starting-the-vr-app)
   - Searching for a memory
   - Finding related memories
   - Viewing a memory from a past day that you didn't place in a room
@@ -50,15 +50,16 @@
 ### Mobile Companion App
 **All of this information can be found within the app itself by pressing the gear-icon and selecting _Help and Instruction_**
 
-#### **How to make a photo / video / text note / voice note**
-Open the app
-
 #### **Transfering files without the mobile app**
 <iframe width="700" height="525" src="https://www.youtube.com/embed/WqHPqB0UyTY?controls=0" frameborder="0" allow="clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 __________________________
 ## VR App
 **All of this information can be found in the Lobby (the first room in the VR App)**
+
+### **Starting the VR App**
+<iframe width="560" height="560" src="https://www.youtube.com/embed/di3ecvQWWY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 __________________________
 ## Other
 ### **Q: I am worried about my privacy**
