@@ -38,7 +38,7 @@
   - I can't hear music / video sounds
   
 ### Other
-  - What else can I do with the VR headset?
+  - [What else can I do with the VR headset?](#q-what-else-can-i-do-with-the-vr-headset)
   - [I am worried about my privacy](#q-i-am-worried-about-my-privacy)
   - [I don't know what I am supposed to do](#q-i-dont-know-what-i-am-supposed-to-do)
   - [I can't find a photo / video but I know it's on my phone](#q-i-cant-find-a-photo--video-but-i-know-its-on-my-phone)
@@ -98,8 +98,15 @@ Also consider that our app does **not** read your text messages. If a photo was 
 <img src="img/save_to_gallery.jpg" height="400px">
 
 
-### Q:** What else can I do with the headset?**
-THat's why
+### **Q: What else can I do with the headset?**
+You can play games! Check out the installed apps and games by pressing on the grid-symbol at the bottom of the menu screen (see [here](#starting-the-vr-app)).
+
+If you have the headset with the letter **Y**, you will find these cutting edge games installed:
+
+- Beat Saber: A thrilling rhythm game in which you have to slice projectiles with light sabers to the beat of a song
+- Super Hot: A shooting game in which time only passes if you move, giving you crucial moments of planning before engaging in combat with an overwhelming amount of enemies
+
+You can also log-in to your netflix account and watch movies in a virtual cinema. Beyond that there is a catalogue of free to play games, either installed or downloadable. Go nuts!
 __________________________
 
 ## Contact
