@@ -23,6 +23,7 @@
   - Searching for a memory
   - Viewing a memory from a past day that you didn't place in a room
   - Making a video recording / taking a snapshot
+  - [I'm too close to the floor / too high up](#im-too-close-to-the-floor-too-high-up)
   - [Why does it crash?](#q-why-does-the-vr-app-crash)
   - [I can't change things in my room anymore](#q-i-cant-change-things-in-my-room-anymore)
   - Why does the headset show me my real life surroundings?
@@ -81,6 +82,10 @@ We understand that you may have reservations with personal information being tra
 
 ### **Starting the VR App**
 <iframe width="560" height="560" src="https://www.youtube.com/embed/di3ecvQWWY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### **I'm too close to the floor / too high up**
+It is likely that the headset got confused about your position. Please long-press the oculus button (see video below)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RWmbNHg-fJI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Q: Why does the VR app crash?**
 It really shouldn't! If you experience a crash or unexpected behaviour, please contact me immediatly and tell me exactly what happened.
