@@ -14,7 +14,7 @@
   - [Transfer files that were created by other apps](#transfer-files-that-were-created-by-other-apps)
   - [Transfering files without the mobile app](#transfering-files-without-the-mobile-app)
   - [Why isn't it sending my files?](#why-isnt-the-app-sending-my-files)
-  - What is the security code for?
+  - [What is the security code for?](#what-is-the-security-code-for)
   - What does _Allow Cloud Voice Transcription_ mean?
   - What does _Allow Cloud Text Sentiment Analysis_ mean?
   
@@ -36,7 +36,7 @@
   - [I can't find a photo / video but I know it's on my phone](#q-i-cant-find-a-photo--video-but-i-know-its-on-my-phone)
  
 - [Contact](#contact) 
-
+- 
 
 
 ## Mobile Companion App
@@ -54,13 +54,18 @@
 ### **Why isn't the app sending my files?**
 - Check that the headset is turned on
 - Check that the headset connected to the same WiFi as your phone
-- Make sure that the app is using the same one-time-password as the headset (check the Quest Companion app below the Memory Mansion app)
+- Make sure that the app is using the same security code as the headset (check the Quest Companion app below the Memory Mansion app)
 - Check your notifications, has the sending maybe started but is taking long due to large amounts of data or a poor WiFi connection?
 Feel free to call or text me:
 
 E-Mail: d.p.rosenbusch@gmail.com
 
 Phone: +49 157757 04560
+
+### **What is the security code for?**
+To protect your privacy the app will not send the memory files to your headset via the internet, but merely over your own private WiFi network. This means that your memories are not uploaded to some server. To add an additional layer of protection (in case someone breaks into your private home network), the app encryptss your memories, which can only be decrypted using the security code, which you hand-type into the headset.
+
+Feel free to [contact](#contact) me if you have further questions.
 
 ## VR App
 **All of this information can be found in the Lobby (the first room in the VR App)**
