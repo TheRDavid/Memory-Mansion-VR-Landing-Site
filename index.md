@@ -42,7 +42,10 @@
 ## Mobile Companion App
 **All of this information can be found within the app itself by pressing the gear-icon and selecting _Help and Instruction_**
 
-#### **Transfering files without the mobile app**
+### **Taking a voice note**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yRp_i_DIQ8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### **Transfering files without the mobile app**
 <iframe width="700" height="525" src="https://www.youtube.com/embed/WqHPqB0UyTY?controls=0" frameborder="0" allow="clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## VR App
