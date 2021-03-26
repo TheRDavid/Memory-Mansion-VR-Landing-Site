@@ -49,7 +49,7 @@
 <iframe width="700" height="315" src="https://www.youtube.com/embed/b_S0pzkSiM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Transfering files without the mobile app**
-<iframe width="700" height="525" src="https://www.youtube.com/embed/WqHPqB0UyTY?controls=0" frameborder="0" allow="clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MZynBFun4fU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Why isn't the app sending my files?**
 - Check that the headset is turned on
