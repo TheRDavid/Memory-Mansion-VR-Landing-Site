@@ -67,6 +67,9 @@ __________________________
 ### **Q: Why does the VR app crash?**
 It really shouldn't! If you experience a crash or unexpected behaviour, please contact me immediatly and tell me exactly what happened.
 
+### **Q: I can't change things in my room anymore**
+You can only change the room of the current day, meaning that all rooms of the past can only be visited, but no longer edited. This is to prevent users from altering their memories and distorting them.
+
 E-Mail: d.p.rosenbusch@gmail.com
 
 Phone: +49 157757 04560
