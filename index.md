@@ -21,12 +21,11 @@
 ### VR App
   - [Starting the VR App](#starting-the-vr-app)
   - Searching for a memory
-  - Finding related memories
   - Viewing a memory from a past day that you didn't place in a room
   - Making a video recording / taking a snapshot
   - [Why does it crash?](#q-why-does-the-vr-app-crash)
   - [I can't change things in my room anymore](#q-i-cant-change-things-in-my-room-anymore)
-  - Why does the headset only show me my real life surroundings?
+  - Why does the headset show me my real life surroundings?
   - I can't hear music / video sounds
   
 ### Other
