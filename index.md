@@ -23,7 +23,7 @@
   - Searching for a memory
   - Viewing a memory from a past day that you didn't place in a room
   - [Making a video recording / taking a snapshot](#making-a-video-recoding-taking-a-snapshot)
-  - [I'm too close to the floor / too high up](#im-too-close-to-the-floor-too-high-up)
+  - [I'm too close to the floor / too high up](#im-too-close-to-the-floor--too-high-up)
   - [Why does it crash?](#q-why-does-the-vr-app-crash)
   - [I can't change things in my room anymore](#q-i-cant-change-things-in-my-room-anymore)
   - Why does the headset show me my real life surroundings?
@@ -84,8 +84,8 @@ We understand that you may have reservations with personal information being tra
 <iframe width="560" height="560" src="https://www.youtube.com/embed/di3ecvQWWY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Making a video recording / taking a snapshot**
-It is likely that the headset got confused about your position. Please long-press the oculus button (see video below)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RWmbNHg-fJI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Short-press the oculus button and select **Record** from the menu-bar. Short-press the oculus button again to dismiss the menu-bar.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xUm3WGyh4eU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **I'm too close to the floor / too high up**
 It is likely that the headset got confused about your position. Please long-press the oculus button (see video below)
