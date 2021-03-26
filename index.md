@@ -15,8 +15,8 @@
   - [Transfering files without the mobile app](#transfering-files-without-the-mobile-app)
   - [Why isn't it sending my files?](#why-isnt-the-app-sending-my-files)
   - [What is the security code for?](#what-is-the-security-code-for)
-  - [What does _Allow Cloud Voice Transcription_ mean?](#what-does--mean)
-  - [What does _Allow Cloud Text Sentiment Analysis_ mean?](#what-does--mean)
+  - [What does _Allow Cloud Voice Transcription_ mean?](##what-does-allow-cloud-voice-transcription-mean)
+  - [What does _Allow Cloud Text Sentiment Analysis_ mean?](#what-does-allow-cloud-text-sentiment-analysis-mean)
   
 ### VR App
   - [Starting the VR App](#starting-the-vr-app)
