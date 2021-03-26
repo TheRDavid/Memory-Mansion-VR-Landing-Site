@@ -26,7 +26,7 @@
   - [Why does it crash?](#q-why-does-the-vr-app-crash)
   - [I can't change things in my room anymore](#q-i-cant-change-things-in-my-room-anymore)
   - Why does the headset show me my real life surroundings?
-  - I can't hear music / video sounds
+  - [I can't hear music / video sounds](#i-cant-hear-music-video-sounds)
   
 ### Other
   - [What else can I do with the VR headset?](#q-what-else-can-i-do-with-the-headset)
@@ -118,6 +118,9 @@ Also consider that our app does **not** read your text messages. If a photo was 
 
 <img src="img/save_to_gallery.jpg" height="400px">
 
+### **I can't hear music / video sounds**
+Check if the device volume is turned very low. See below video. If that is not the issue and you are sure that the video / audio file in question should have sound, please [contact](#contact) me.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6q-1Fr_psio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Q: What else can I do with the headset?**
 You can play games! Check out the installed apps and games by pressing on the grid-symbol at the bottom of the menu screen (see [here](#starting-the-vr-app)).
