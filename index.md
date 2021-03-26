@@ -32,7 +32,7 @@
   - What does _Allow Cloud Text Sentiment Analysis_ mean?
   
 ### VR App
-  - [Why does it crash?](#q-why-does-it-crash)
+  - [Why does it crash?](#q-why-does-the-vr-app-crash)
   - I can't change things in my room anymore.
   - Why does the headset only show me my real life surroundings?
   - I can't hear music / video sounds
