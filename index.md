@@ -32,7 +32,7 @@
   - What does _Allow Cloud Text Sentiment Analysis_ mean?
   
 ### VR App
-  - Why does it crash?
+  - [Why does it crash?](#q-why-does-it-crash)
   - I can't change things in my room anymore.
   - Why does the headset only show me my real life surroundings?
   - I can't hear music / video sounds
@@ -40,7 +40,7 @@
 ### Other
   - What else can I do with the VR headset?
   - [I am worried about my privacy](#q-i-am-worried-about-my-privacy)
-  - I don't know what I am supposed to do
+  - [I don't know what I am supposed to do](#q-i-dont-know-what-i-am-supposed-to-do)
   - [I can't find a photo / video but I know it's on my phone](#q-i-cant-find-a-photo--video-but-i-know-its-on-my-phone)
  
 - [Contact](#contact) 
@@ -61,7 +61,18 @@ __________________________
 <iframe width="560" height="560" src="https://www.youtube.com/embed/di3ecvQWWY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 __________________________
+
+## VR
+
+### Q:**Why does the VR app crash?**
+It really shouldn't! If you experience a crash or unexpected behaviour, please contact me immediatly and tell me exactly what happened.
+
+E-Mail: d.p.rosenbusch@gmail.com
+
+Phone: +49 157757 04560
+
 ## Other
+
 ### **Q: I am worried about my privacy**
 Key facts:
 - We will never look at the content of your memories
