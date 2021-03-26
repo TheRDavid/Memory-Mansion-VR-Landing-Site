@@ -33,7 +33,7 @@
   
 ### VR App
   - [Why does it crash?](#q-why-does-the-vr-app-crash)
-  - I can't change things in my room anymore.
+  - [I can't change things in my room anymore](#q-i-cant-change-things-in-my-room-anymore)
   - Why does the headset only show me my real life surroundings?
   - I can't hear music / video sounds
   
