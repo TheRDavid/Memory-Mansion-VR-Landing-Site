@@ -11,9 +11,9 @@
 
 ### Mobile Companion App
   - [Take voice note](#taking-a-voice-note)
-  - Send a file that was not made with the app
+  - [Transfer files that were created by other apps](#transfer-files-that-were-created-by-other-apps)
   - [Transfering files without the mobile app](#transfering-files-without-the-mobile-app)
-  - Why isn't it sending my files?
+  - [Why isn't it sending my files?](#why-isn't-the-app-sending-my-files)
   - What is the security code for?
   - What does _Allow Cloud Voice Transcription_ mean?
   - What does _Allow Cloud Text Sentiment Analysis_ mean?
@@ -43,10 +43,24 @@
 **All of this information can be found within the app itself by pressing the gear-icon and selecting _Help and Instruction_**
 
 ### **Taking a voice note**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yRp_i_DIQ8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="525" src="https://www.youtube.com/embed/yRp_i_DIQ8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### **Transfer files that were created by other apps**
+<iframe width="700" height="315" src="https://www.youtube.com/embed/b_S0pzkSiM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Transfering files without the mobile app**
 <iframe width="700" height="525" src="https://www.youtube.com/embed/WqHPqB0UyTY?controls=0" frameborder="0" allow="clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### **Why isn't the app sending my files?**
+- Check that the headset is turned on
+- Check that the headset connected to the same WiFi as your phone
+- Make sure that the app is using the same one-time-password as the headset (check the Quest Companion app below the Memory Mansion app)
+- Check your notifications, has the sending maybe started but is taking long due to large amounts of data or a poor WiFi connection?
+Feel free to call or text me:
+
+E-Mail: d.p.rosenbusch@gmail.com
+
+Phone: +49 157757 04560
 
 ## VR App
 **All of this information can be found in the Lobby (the first room in the VR App)**
