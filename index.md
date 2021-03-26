@@ -2,34 +2,30 @@
 
 ### Make sure that you have watched the intro videos, for further help see below:
 
+## How to put on the headset (see video below or download instructions document).
 <iframe width="840" height="472" src="https://www.youtube.com/embed/m-xlKRM7uyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## How to use the mobile app (see video below or download instructions document).
 <iframe width="840" height="472" src="https://www.youtube.com/embed/pohtWnsrQVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## How to use the vr app (see video below or download instructions document).
 <iframe width="840" height="472" src="https://www.youtube.com/embed/0gV3oTk5dLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Howto
 
 ### Mobile Companion App
-  - Take a text note
   - Take voice note
   - Send a file that was not made with the app
-  - Transfer files to the VR headset **whithout the monile app**
+  - [Transfering files without the mobile app](#transfering-files-without-the-mobile-app)
   
 ### VR App
-  - [Transfering files without the mobile app](#transfering-files-without-the-mobile-app)
-  - Putting on the VR headset
-  - Holding the VR controllers
   - Starting the VR App
-  - Changing an object (rename, edit description, tags, rating, ...)
   - Searching for a memory
   - Finding related memories
   - Viewing a memory from a past day that you didn't place in a room
-  - Providing daily feedback
   - Making a video recording / taking a snapshot
 
 ## FAQ
 
 ### Mobile Companion App
-  - How do I send the files to the VR headset?
   - Why isn't it sending my files?
   - What is the security code for?
   - What does _Allow Cloud Voice Transcription_ mean?
@@ -74,7 +70,11 @@ Key facts:
 - If you are still unomfortable, please contact me directly. We can also end the experiment prematurely if you wish.
 
 ### **Q: I don't know what I am supposed to do**
-THat's why
+Please contact me, you can call me any time or write me an email.
+
+E-Mail: d.p.rosenbusch@gmail.com
+
+Phone: +49 157757 04560
 
 ### **Q: I can't find a photo / video but I know it's on my phone**
 Hit the top-left menu icon in the file-chooser. Make sure you are looking in the right place (maybe a photo wasn't taken with your camera but sent via WhatsApp?).
