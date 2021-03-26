@@ -26,7 +26,7 @@
   - [I'm too close to the floor / too high up](#im-too-close-to-the-floor--too-high-up)
   - [Why does it crash?](#q-why-does-the-vr-app-crash)
   - [I can't change things in my room anymore](#q-i-cant-change-things-in-my-room-anymore)
-  - [Why does the headset show me my real life surroundings?[(#q-why-does-the-headset-show-me-my-real-life-surroundings)
+  - [Why does the headset show me my real life surroundings?](#q-why-does-the-headset-show-me-my-real-life-surroundings)
   - [I can't hear music / video sounds](#i-cant-hear-music-video-sounds)
   
 ### Other
