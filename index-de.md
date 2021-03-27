@@ -114,7 +114,7 @@ Es gibt 2 Gründe, warum das passieren kann:
 2. Du hast die Seite des Headsets doppelt angetippt. Tippe erneut darauf, um das Problem zu lösen.
 
 ### **Ich kann keine Videos / keine Musik hören**
-Prüfe, ob die Lautstärke des Geräts sehr niedrig eingestellt ist. Siehe Video unten. Wenn das nicht das Problem ist und du dir sicher bist, dass die betreffende Video-/Audiodatei Ton haben sollte, [kontaktiere](#kontact) mich bitte.
+Prüfe, ob die Lautstärke des Geräts sehr niedrig eingestellt ist. Siehe Video unten. Wenn das nicht das Problem ist und du dir sicher bist, dass die betreffende Video-/Audiodatei Ton haben sollte, [kontaktiere](#kontakt) mich bitte.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6q-1Fr_psio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Other
