@@ -3,9 +3,9 @@
 
 ## Bitte stelle sicher, dass du die folgenden 3 Videos gesehen hast. Weitere Hilfen gibt es weiter unten.
 
-### Wie man das Headset aufsetzt (siehe Video oder lade die Gebrauchsanweisung herunter).
+### Wie man das Headset aufsetzt (siehe Video oder <a href="https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/raw/gh-pages/de_introCompanionApp.pdf">lade die Gebrauchsanweisung herunter</a>).
 <iframe width="840" height="472" src="https://www.youtube.com/embed/PaB1OSfV8LE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-### Wie man die mobile App benutzt (siehe Video oder lade die Gebrauchsanweisung herunter).
+### Wie man die mobile App benutzt (siehe Video oder <a href="https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/raw/gh-pages/de_introHardware.pdf">lade die Gebrauchsanweisung herunter</a>).
 <iframe width="230" height="500" src="https://www.youtube.com/embed/fPimIDtvVq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Wie man das virtuelle Tagebuch benutzt.
 <iframe width="840" height="840" src="https://www.youtube.com/embed/CYVGda6x29s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
