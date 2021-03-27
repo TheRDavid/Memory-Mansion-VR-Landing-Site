@@ -17,7 +17,7 @@
   - [Warum werden meine Dateien nicht verschickt?](#warum-werden-meine-dateien-nicht-verschickt)
   - [Wozu ist der Sicherheitscode gut?](#wozu-ist-der-sicherheitscode-gut)
   - [Was bedeutet _Mit Google Sprache zu Text umwandeln_ ?](#was-bedeutet-mit-google-sprache-zu-text-umwandeln)
-  - [Was bedeutet _Mit Google Stimmungsanalysen durchführen_ ?](#was-bedeutet-mit-google-stimmungsanalysen-durchführen)
+  - [Was bedeutet _Mit Google Stimmungsanalysen durchführen_ ?](#was-bedeutet-mit-google-stimmungsanalysen-durchführen-)
   
 ### Das Virtuelle Tagebuch
   - [Das virtuelle Tagebuch starten](#das-virtuelle-tagebuch-starten)
