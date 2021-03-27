@@ -18,6 +18,7 @@
   - [Wozu ist der Sicherheitscode gut?](#wozu-ist-der-sicherheitscode-gut)
   - [Was bedeutet _Mit Google Sprache zu Text umwandeln_ ?](#was-bedeutet-mit-google-sprache-zu-text-umwandeln)
   - [Was bedeutet _Mit Google Stimmungsanalysen durchführen_ ?](#was-bedeutet-mit-google-stimmungsanalysen-durchführen-)
+  - [Ich kann eine Datei nicht finden aber ich weiß dass sie auf meinem Telefon ist](#ich-kann-eine-datei-nicht-finden-aber-ich-weiß-dass-sie-auf-meinem-telefon-ist)
   
 ### Das Virtuelle Tagebuch
   - [Das virtuelle Tagebuch starten](#das-virtuelle-tagebuch-starten)
@@ -32,7 +33,6 @@
   - [Was kann ich noch mit dem VR Headset machen?](#was-kann-ich-noch-mit-dem-vr-headset-machen)
   - [Ich mache mir Sorgen um meine Privatsphäre](#ich-mache-mir-sorgen-um-meine-privatsphäre)
   - [Ich weiß nicht was ich tun soll](#ich-weiß-nicht-was-ich-tun-soll)
-  - [Ich kann eine Datei nicht finden aber ich weiß dass sie auf meinem Telefon ist](#ich-kann-eine-datei-nicht-finden-aber-ich-weiß-dass-sie-auf-meinem-telefon-ist)
  
    
 - [Kontact](#kontact) 
@@ -76,6 +76,15 @@ Um die Stimmung eines Textes zu analysieren, verwenden wir die modernste Spracha
 
 Da du vielleicht Vorbehalte hast, wenn persönliche Informationen auf diese Weise übertragen werden, ist diese Funktion standardmäßig deaktiviert. Wenn du diese Funktion nicht einschaltest, wird die App versuchen, eine sehr einfache Stimmungs-Analyse lokal durchzuführen (d.h. ohne den Textinhalt mit jemandem zu teilen), aber sie wird wahrscheinlich weniger genau sein.
 
+### **Ich kann eine Datei nicht finden aber ich weiß dass sie auf meinem Telefon ist**
+Klicke auf das Menü-Symbol oben links in der Datei-Auswahl. Vergewissere dich, dass du an der richtigen Stelle suchst (vielleicht wurde ein Foto nicht mit deiner Kamera aufgenommen, sondern über WhatsApp verschickt?).
+
+<img src="img/filechooser_menu.jpg" height="400px">
+
+Bedenke auch, dass unsere App **nicht** deine Textnachrichten liest. Wenn dir ein Foto über eine Messenger-App geschickt wurde, musst du es manuell auf deinem Handy speichern, damit unsere App es erkennen kann.
+
+<img src="img/save_to_gallery.jpg" height="400px">
+
 ## VR App
 
 ### **Das virtuelle Tagebuch starten**
@@ -110,32 +119,6 @@ Prüfe, ob die Lautstärke des Geräts sehr niedrig eingestellt ist. Siehe Video
 
 ## Other
 
-### **Ich mache mir Sorgen um meine Privatsphäre**
-Wichtige Fakten:
-- Wir werden uns niemals den Inhalt deiner Erinnerungen ansehen
-- Erinnerungen werden nur dann an die Google Analysis Server gesendet, wenn du **explizit** angibst, dass du das möchtest, ansonsten werden keine deiner Erinnerungen außerhalb des VR-Headsets und deines eigenen Telefons gespeichert
-- Am Ende des Experiments kannst du alle deine Erinnerungsinhalte vom Headset auf deinen eigenen Computer übertragen und dann alle deine Daten vom Headset löschen, bevor du sie zurückgibst
-- Deine Interviewergebnisse werden anonymisiert
-- Wenn du dich immer noch unwohl fühlst, kontaktiere mich bitte direkt. Wir können das Experiment auch vorzeitig beenden, wenn du das möchtest.
-
-### **Ich weiß nicht was ich tun sol**
-Bitte kontaktiere mich, du kannst mich jederzeit anrufen oder mir eine E-Mail oder einen Text schreiben.
-
-E-Mail: d.p.rosenbusch@gmail.com
-
-Telefon: +49 157757 04560
-
-
-### **Ich kann eine Datei nicht finden aber ich weiß dass sie auf meinem Telefon ist**
-Klicke auf das Menü-Symbol oben links in der Datei-Auswahl. Vergewissere dich, dass du an der richtigen Stelle suchst (vielleicht wurde ein Foto nicht mit deiner Kamera aufgenommen, sondern über WhatsApp verschickt?).
-
-<img src="img/filechooser_menu.jpg" height="400px">
-
-Bedenke auch, dass unsere App **nicht** deine Textnachrichten liest. Wenn dir ein Foto über eine Messenger-App geschickt wurde, musst du es manuell auf deinem Handy speichern, damit unsere App es erkennen kann.
-
-<img src="img/save_to_gallery.jpg" height="400px">
-
-
 ### **Was kann ich noch mit dem VR Headset machen?**
 Du kannst Spiele spielen! Schau dir die installierten Apps und Spiele an, indem du auf das Gitter-Symbol am unteren Rand des Menübildschirms drückst (siehe [hier](#das-virtuelle-tagebuch-starten)).
 
@@ -145,6 +128,21 @@ Wenn du das Headset mit dem Buchstaben **Y** hast, findest du diese neuen Spiele
 - Super Hot: Ein Shooter, bei dem die Zeit nur vergeht, wenn du dich bewegst, was dir entscheidende Momente der Planung gibt, bevor du dich in den Kampf mit einer überwältigenden Anzahl von Gegnern stürzt
 
 Du kannst dich auch in deinen Netflix-Account einloggen und Filme in einem virtuellen Kino anschauen. Darüber hinaus gibt es einen Katalog von frei spielbaren Spielen, die entweder installiert oder heruntergeladen werden können. Tob dich aus!
+
+### **Ich mache mir Sorgen um meine Privatsphäre**
+Wichtige Fakten:
+- Wir werden uns niemals den Inhalt deiner Erinnerungen ansehen
+- Erinnerungen werden nur dann an die Google Analysis Server gesendet, wenn du **explizit** angibst, dass du das möchtest, ansonsten werden keine deiner Erinnerungen außerhalb des VR-Headsets und deines eigenen Telefons gespeichert
+- Am Ende des Experiments kannst du alle deine Erinnerungsinhalte vom Headset auf deinen eigenen Computer übertragen und dann alle deine Daten vom Headset löschen, bevor du sie zurückgibst
+- Deine Interviewergebnisse werden anonymisiert
+- Wenn du dich immer noch unwohl fühlst, kontaktiere mich bitte direkt. Wir können das Experiment auch vorzeitig beenden, wenn du das möchtest.
+
+### **Ich weiß nicht was ich tun soll**
+Bitte kontaktiere mich, du kannst mich jederzeit anrufen oder mir eine E-Mail oder einen Text schreiben.
+
+E-Mail: d.p.rosenbusch@gmail.com
+
+Telefon: +49 157757 04560
 __________________________
 
 ## Kontact
