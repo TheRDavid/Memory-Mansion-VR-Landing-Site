@@ -1,5 +1,5 @@
 # Help Page
-### [Englische Version / English Version](https://github.com/TheRDavid/Memory-Mansion-VR-Landing-Site/edit/gh-pages/index.md)
+### [Englische Version / English Version](https://therdavid.github.io/Memory-Mansion-VR-Landing-Site)
 
 ## Make sure that you have watched the intro videos, for further help see below:
 
