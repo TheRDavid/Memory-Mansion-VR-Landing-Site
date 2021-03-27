@@ -44,7 +44,7 @@
 ### **Eine Sprachaufnahme erstellen**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i5VZx5kUpWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### **Dateien übertragen die mit andere Apps erstellt wurden**
+### **Dateien übertragen die mit anderen Apps erstellt wurden**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6OvX1CybsxY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Dateien ohne die mobile App übertragen**
