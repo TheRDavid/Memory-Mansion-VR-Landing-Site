@@ -136,18 +136,18 @@ Bedenke auch, dass unsere App **nicht** deine Textnachrichten liest. Wenn dir ei
 <img src="img/save_to_gallery.jpg" height="400px">
 
 
-### **Q: What else can I do with the headset?**
-You can play games! Check out the installed apps and games by pressing on the grid-symbol at the bottom of the menu screen (see [here](#starting-the-vr-app)).
+### **Was kann ich noch mit dem VR Headset machen?**
+Du kannst Spiele spielen! Schau dir die installierten Apps und Spiele an, indem du auf das Gitter-Symbol am unteren Rand des Menübildschirms drückst (siehe [hier](#das-virtuelle-tagebuch-starten)).
 
-If you have the headset with the letter **Y**, you will find these cutting edge games installed:
+Wenn du das Headset mit dem Buchstaben **Y** hast, findest du diese neuen Spiele installiert:
 
-- Beat Saber: A thrilling rhythm game in which you have to slice projectiles with light sabers to the beat of a song
-- Super Hot: A shooting game in which time only passes if you move, giving you crucial moments of planning before engaging in combat with an overwhelming amount of enemies
+- Beat Saber: Ein spannendes Rhythmusspiel, in dem du mit Lichtschwertern im Takt eines Liedes Projektile zerschneiden musst
+- Super Hot: Ein Shooter, bei dem die Zeit nur vergeht, wenn du dich bewegst, was dir entscheidende Momente der Planung gibt, bevor du dich in den Kampf mit einer überwältigenden Anzahl von Gegnern stürzt
 
-You can also log-in to your netflix account and watch movies in a virtual cinema. Beyond that there is a catalogue of free to play games, either installed or downloadable. Go nuts!
+Du kannst dich auch in deinen Netflix-Account einloggen und Filme in einem virtuellen Kino anschauen. Darüber hinaus gibt es einen Katalog von frei spielbaren Spielen, die entweder installiert oder heruntergeladen werden können. Tob dich aus!
 __________________________
 
-## Contact
+## Kontact
 E-Mail: d.p.rosenbusch@gmail.com
 
-Phone: +49 157757 04560
+Telefon: +49 157757 04560
