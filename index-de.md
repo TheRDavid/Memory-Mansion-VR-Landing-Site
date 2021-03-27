@@ -4,11 +4,11 @@
 ## Bitte stelle sicher, dass du die folgenden 3 Videos gesehen hast. Weitere Hilfen gibt es weiter unten.
 
 ### Wie man das Headset aufsetzt (siehe Video oder lade die Gebrauchsanweisung herunter).
-<iframe width="840" height="472" src="https://www.youtube.com/embed/m-xlKRM7uyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="840" height="472" src="https://www.youtube.com/embed/PaB1OSfV8LE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Wie man die mobile App benutzt (siehe Video oder lade die Gebrauchsanweisung herunter).
-<iframe width="230" height="472" src="https://www.youtube.com/embed/pohtWnsrQVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="230" height="315" src="https://www.youtube.com/embed/fPimIDtvVq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### Wie man das virtuelle Tagebuch benutzt (siehe Video oder lade die Gebrauchsanweisung herunter).
-<iframe width="840" height="840" src="https://www.youtube.com/embed/0gV3oTk5dLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="840" height="840" src="https://www.youtube.com/embed/CYVGda6x29s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Mobile Companion App
   - [Eine Sprachaufnahme erstellen](#eine-sprachaufnahme-erstellen)
@@ -42,13 +42,13 @@
 **Alle diese Informationen finden Sie in der App selbst, indem Sie auf das Zahnrad-Symbol drücken und _Hilfe und Anleitungen_ auswählen**
 
 ### **Eine Sprachaufnahme erstellen**
-<iframe width="560" height="525" src="https://www.youtube.com/embed/yRp_i_DIQ8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i5VZx5kUpWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Dateien übertragen die mit andere Apps erstellt wurden**
-<iframe width="700" height="315" src="https://www.youtube.com/embed/b_S0pzkSiM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6OvX1CybsxY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Dateien ohne die mobile App übertragen**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MZynBFun4fU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nbUaUls9hK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Warum werden meine Dateien nicht verschickt?**
 - Prüfe, ob das Headset eingeschaltet ist
@@ -79,7 +79,7 @@ Da du vielleicht Vorbehalte hast, wenn persönliche Informationen auf diese Weis
 ## VR App
 
 ### **Das virtuelle Tagebuch starten**
-<iframe width="560" height="560" src="https://www.youtube.com/embed/di3ecvQWWY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m1ioKLB5AEU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### **Eine Videoaufnahme oder einen Screenshot erstellen**
 Drücke kurz auf die Oculus-Taste und wähle **Aufnahme** aus der Menüleiste. Drücke die Oculus-Taste erneut, um die Menüleiste zu schließen.
