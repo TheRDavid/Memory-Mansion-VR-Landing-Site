@@ -35,7 +35,7 @@
   - [Ich weiß nicht was ich tun soll](#ich-weiß-nicht-was-ich-tun-soll)
  
    
-- [Kontact](#kontact) 
+- [Kontakt](#kontakt) 
 
 
 ## Mobile Companion App
@@ -145,7 +145,7 @@ E-Mail: d.p.rosenbusch@gmail.com
 Telefon: +49 157757 04560
 __________________________
 
-## Kontact
+## Kontakt
 E-Mail: d.p.rosenbusch@gmail.com
 
 Telefon: +49 157757 04560
