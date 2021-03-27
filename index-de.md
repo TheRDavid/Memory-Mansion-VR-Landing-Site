@@ -13,7 +13,7 @@
 ### Mobile Companion App
   - [Eine Sprachaufnahme erstellen](#eine-sprachaufnahme-erstellen)
   - [Dateien übertragen die mit andere Apps erstellt wurden](#dateien-übertragen-die-mit-anderen-apps-erstellt-wurden)
-  - [Dateien ohne die mobile App übertragen](#dateien-ohne-mobile-app-übertragen)
+  - [Dateien ohne die mobile App übertragen](#dateien-ohne-die-mobile-app-übertragen)
   - [Warum werden meine Dateien nicht verschickt?](#warum-werden-meine-dateien-nicht-verschickt)
   - [Wozu ist der Sicherheitscode gut?](#wozu-ist-der-sicherheitscode-gut)
   - [Was bedeutet _Mit Google Sprache zu Text umwandeln_ ?](#was-bedeutet-mit-google-sprache-zu-text-umwandeln)
